@@ -1,4 +1,4 @@
-# Pomoc dydaktyczna dla programisty 1A ZST
+# Pomoc dydaktyczna dla programisty C++, Java JDK
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)]( https://github.com/bartdurak/char)
 
 
