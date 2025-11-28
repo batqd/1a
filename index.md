@@ -1,7 +1,7 @@
 -----
-layout: default
+
 ------
-## Strona zadeklarowana dla uczniów technikum "technik programista, mechatronik" 
+## Strona zadeklarowana dla młodych programistów 
 ### [Dla mechatronika 1C ](https://github.com/bartdurak/ArduinoZST)
 ### [Blog mechatronikaedu](https://mechatronikaedu.blogspot.com)
 ### [ELM](mecha.md)
@@ -13,11 +13,11 @@ ____________________________________________________
 ### [Skanowanie kalilinux](./Net_scan.md)
 ### [Git w CMD.exe windows ](./git_windows.md)
 ### [Zakładanie konta na github](./another-page.md)
-### [Informatyka kl 1a i1B => Schematy blokowe](./algorytmy.md)
+### [Informatyka => Schematy blokowe](./algorytmy.md)
 ### [GitLab zadania](./pisanie_zadan.md)
 ### [USB bootable](./usbboot.md)
 ### [Strony powiązane. Konkursy dla programisty](http://programista1a.site)
-### [koniec_roku.md](koniec_roku.md)
+### [Spis stron.md](koniec_roku.md)
 ### [Strony powiązane. Konkursy dla programisty](http://durak.tech)
 ###  W tym roku udało się pozyskać licencje edu firmy. Normalnie produkt jest płatny i drogi. Pod długiej wymianie wiadomości mailowych z developerami firmy, obyło się bez euro legitymacji 
 
