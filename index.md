@@ -2,11 +2,11 @@
 
 ------
 ## Strona zadeklarowana dla młodych programistów 
-### [Dla mechatronika 1C ](https://github.com/bartdurak/ArduinoZST)
+### [Mechatronika](https://github.com/bartdurak/ArduinoZST)
 ### [Blog mechatronikaedu](https://mechatronikaedu.blogspot.com)
 ### [ELM](mecha.md)
 ### [Instalowanie STM32](https://youtu.be/CXV1t2lCA2w)
-### [Dla budownictwa 1a ](https://pbud.blogspot.com)
+### [Konstrukcje budowlane](https://pbud.blogspot.com)
 ____________________________________________________
 ### *Jekyll theme  [zobacz projekt szablonu Jekyll](http://pages-themes.github.io/hacker) 
 ### [Instalowanie systemu na USB](https://pbud.blogspot.com/2023/03/usb-pendrive-clion.html)
